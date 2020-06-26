@@ -21,7 +21,7 @@ import database.DatabaseConnector;
 import database.DatabaseRetriever;
 
 public class MapOutput extends DataOutput {
-  private final String key = "AIzaSyDxNkm4XMiYBUggyA6bJJyqeJ9U2nXTyos";
+  private final String key = "GOOGLE MAPS API KEY";
   private static MapOutput mapOutputInstance = null;
   
   public static MapOutput returnMapOutputInstance() {
